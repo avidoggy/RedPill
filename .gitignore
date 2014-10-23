@@ -1,2 +1,12 @@
 .DS_Store
 build
+
+*.xcuserstate
+
+*.xcsettings
+
+*.xcbkptlist
+
+*.xcscheme
+
+*.plist

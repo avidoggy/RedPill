@@ -47,7 +47,7 @@
 
    // Bitmap data for glyphs
    NSMutableData *dataobj;
-}
+};
 
 - (instancetype)initWithNSOpenGLView:(NSOpenGLView *)someview NS_DESIGNATED_INITIALIZER;
 
